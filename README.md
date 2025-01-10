@@ -1,1 +1,1 @@
-# Black-Jack-Game
+The Black Jack game is a popular card game played between a player and a dealer. The objective of the game is to reach a card value as close to 21 as possible without exceeding it. This project aims to develop a Black Jack game using Object-Oriented Programming (OOP) concepts in the C++ programming language. The game will be implemented using various modules and will incorporate features of C++ to enhance functionality and user experience.
